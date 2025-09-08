@@ -82,5 +82,5 @@ Acesse o projeto
 [http://localhost:8000](http://localhost:8000)
 
 Acesse o banco de dados
-[http://localhost:8000](http://localhost:8080)
+[http://localhost:8080](http://localhost:8080)
 
