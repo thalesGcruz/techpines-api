@@ -35,7 +35,7 @@ Se estiver usando **Windows**, é altamente recomendado abrir este projeto via *
 
 Clone Repositório
 ```sh
-git clone https://github.com/thalesGcruz/techpines-api.git
+git clone git@github.com:thalesGcruz/techpines-api.git
 ```
 ```sh
 cd techpines-api
