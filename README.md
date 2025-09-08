@@ -71,6 +71,13 @@ Rodar as migrations
 php artisan migrate
 ```
 
+
+Rodar os seeder
+```sh
+php artisan db:seed
+```
+
+
 Acesse o projeto
 [http://localhost:8000](http://localhost:8000)
 
